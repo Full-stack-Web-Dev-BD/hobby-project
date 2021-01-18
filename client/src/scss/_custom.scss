@@ -1,0 +1,24 @@
+// Here you can add other styles
+
+
+// fix sidebar color
+.c-sidebar {
+    background-color: #3b5999;
+    a:hover {
+      color: #fff;
+      background: #f35b04 !important;
+    }
+  }
+  
+  .home-page{
+    img{
+      width:100%
+    }
+  }
+  .custom-card-bg{
+    background-color: #8EA604;
+    height: 280px;
+  }
+  .mtb-50{
+    margin: 50px 0;
+  }
